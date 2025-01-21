@@ -68,6 +68,6 @@ setup(
     }    
 )
 
-# pyproject
+# pyproject ok
 
 # external buil tools (poetry, flit)
